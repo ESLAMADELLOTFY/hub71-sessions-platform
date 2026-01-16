@@ -6,11 +6,11 @@ Framework: Next.js (Latest Stable)
 
 Styling: Tailwind CSS
 
-Form Management: React Hook Form (with Zod/Yup validation)
+Form Management: React Hook Form (with Zod)
 
 API Client: Fetch API / Axios
 
-Animations: Framer Motion (Optional/Extra)
+Animations: Framer Motion
 
 Language Support: English & Arabic (i18n)
 
